@@ -56,9 +56,26 @@ The following Excel skills were utilized for analysis:
 * Insights: Provides the salary information for specific chosen job titles, countries, and schedule types.
 * Formula: This formula populates the table below, returning the median salary based on job title, country, and type specified.
 
-Background Table
-!(https://github.com/robbrody/Data_Science_Salary_Calculator/blob/main/Job-title_table.png)  
+Background Table:
 
-Dashboard Implementation
+![Job Title Median Salary Table](https://github.com/robbrody/Data_Science_Salary_Calculator/blob/main/Job-title_table.png)  
 
-!()
+Dashboard Implementation:
+
+![Dashboard Image with Dropdown, Chart, and KPI](https://github.com/robbrody/Data_Science_Salary_Calculator/blob/main/job_title_dd_kpi.png)
+
+**Count of Job Schedule Type**
+
+``` excel
+=FILTER(J2#,NOT(ISNUMBER(SEARCH("and", J2#)))*(J2#<>0))
+```
+* Unique List Generation: This Excel formula above employs the FILTER() function to exclude entries containing "and" or commas, and omit zero values.
+* Formula: This formula populates the table below, which gives us a list of unique job schedule types that are not combined with other job types.
+
+Background Table:
+
+![Job Schedule Type Table]()
+
+Dashboard Implementation:
+
+![Job Schedule Type Dropdown Chart KPI]()
