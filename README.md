@@ -21,7 +21,7 @@ The following Excel skills were utilized for analysis:
 ### Charts
 
 **Data Science Job Salaries Bar Chart**
-![Job Title Salaries Bar Chart](https://github.com/robbrody/Data_Science_Salary_Calculator/blob/main/Job_title_graph_and_dropdown.png)
+![Job Title Salaries Bar Chart](https://github.com/robbrody/Data_Science_Salary_Calculator/blob/main/job_title_graph.png)
 
 * Utitlized bar chart (with formatted salary values) na doptimized layour for clarity
 * Horizontal bar chart for visual comparison of median salaries.
