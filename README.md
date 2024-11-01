@@ -57,4 +57,4 @@ The following Excel skills were utilized for analysis:
 * Formula: This formula populates the table below, returning the median salary based on job title, country, and type specified.
 
   Background Table
-  
+!()  
