@@ -21,21 +21,26 @@ The following Excel skills were utilized for analysis:
 ### Charts
 
 **Data Science Job Salaries Bar Chart**
+
 ![Job Title Salaries Bar Chart](https://github.com/robbrody/Data_Science_Salary_Calculator/blob/main/job_title_graph.png)
 
 * Utitlized bar chart (with formatted salary values) na doptimized layour for clarity
 * Horizontal bar chart for visual comparison of median salaries.
 * Sorted job titles by descending slaary for improved readability.
 * This chart enables quick identification of salary trends, noting that Senior roles and Engineers are higher-paying than Analyst roles.
+  
 
 **Median Salary by Country Map Chart**
-![Map Chart of Median Salaries](https://github.com/robbrody/Data_Science_Salary_Calculator/blob/main/Country_graph_dropdown.png)
+
+![Map Chart of Median Salaries](https://github.com/robbrody/Data_Science_Salary_Calculator/blob/main/DS_Salary_Calculator_Map.gif)
+
 
 * Utilized Excel's map chart feature to plot median salaries globally.
 * Color-coded map to visually differentiate salary levels across countries.
 * Plotted median salary for each country with available data.
 * Improved visual and immediate understanding of geographic salary trends.
 * Enables quick visual of global salary disparities and highlights higher and lower areas.
+  
 
 ### Formulas and Functions
 
