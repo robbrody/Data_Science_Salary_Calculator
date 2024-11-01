@@ -56,5 +56,9 @@ The following Excel skills were utilized for analysis:
 * Insights: Provides the salary information for specific chosen job titles, countries, and schedule types.
 * Formula: This formula populates the table below, returning the median salary based on job title, country, and type specified.
 
-  Background Table
-!()  
+Background Table
+!(https://github.com/robbrody/Data_Science_Salary_Calculator/blob/main/Job-title_table.png)  
+
+Dashboard Implementation
+
+!()
