@@ -7,4 +7,18 @@ I developed an interactive Excel dashboard using Luke Barousse's Job Salary data
 
 ### Dashboard File
 
-The final dashboard file is in ()
+The final dashboard file is in (https://github.com/robbrody/Data_Science_Salary_Calculator/blob/main/Data%20Jobs%20Dashboard%20Project.xlsx).
+
+### Excel Skills Used in Project
+
+The following Excel skills were utilized for analysis:
+* Charts: For visualizing the data.
+* Formulas and Functions: For Sorting, ANalyzing, Filtering the Data.
+* Data Validation: For restricting options in drop-down user interactive elements.
+
+## Dashboard Build
+
+### Charts
+
+Data Science Job Salaries Bar Chart
+![Job Title Salaries Bar Chart]()
