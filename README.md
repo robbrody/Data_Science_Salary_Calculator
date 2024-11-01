@@ -94,4 +94,11 @@ Dashboard Implementation:
     * User input is restricted to the predefined, and validated schedule types.
     * Incorrect or inconsistent entries are prevented.
     * Overall usability of the dashboard is enhanced.
-  
+
+
+![Job Title Dropdown selection](https://github.com/robbrody/Data_Science_Salary_Calculator/blob/main/DS_Salary_Calculator_DD_title.gif)
+
+
+## Conclusion
+
+The Data Job Salary Calculator Dashboard was developed to strengthen my Excel proficiency while enabling more efficient and insightful analysis of job posting data. This tool provides stakeholders with accessible, data-driven insights to support informed decision-making based on comprehensive job market trends. Key findings reveal that median salaries are generally higher for Data Scientist and Engineer roles compared to Analyst positions, and full-time roles tend to offer greater compensation than other job types. Indeed and LinkedIn emerge as the top platforms for U.S.-based job postings, and the United States stands out with a significantly higher job count than other countries in this dataset.
