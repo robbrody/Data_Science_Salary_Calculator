@@ -84,4 +84,14 @@ Background Table:
 
 Dashboard Implementation:
 
-![Job Schedule Type Dropdown Chart KPI]()
+![Job Schedule Type Dropdown Chart KPI](https://github.com/robbrody/Data_Science_Salary_Calculator/blob/main/job_schedule_type_dd_graph_kpi.png)
+
+
+### Data Validation
+
+**Filtered List**
+* Enhanced Data Validation: Implemented the fltered list as a data validation rule undr the Job Title, COuntry, and Type option in the Data tab ensures:
+    * User input is restricted to the predefined, and validated schedule types.
+    * Incorrect or inconsistent entries are prevented.
+    * Overall usability of the dashboard is enhanced.
+  
