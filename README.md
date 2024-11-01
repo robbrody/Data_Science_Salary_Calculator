@@ -1,4 +1,4 @@
-# Data_Science_Salary_Calculator
+# Data Science Salary Calculator
 
 ![Data Science Salary Calculator](https://github.com/robbrody/Data_Science_Salary_Calculator/blob/main/DS_Salary_Calculator.gif)*Dashboard in Excel showing Data Science Job Salary Calculator*
 
@@ -11,10 +11,10 @@ The final dashboard file is in (https://github.com/robbrody/Data_Science_Salary_
 
 ### Excel Skills Used in Project
 
-The following Excel skills were utilized for analysis:
-* Charts: For visualizing the data.
-* Formulas and Functions: For Sorting, ANalyzing, Filtering the Data.
-* Data Validation: For restricting options in drop-down user interactive elements.
+The following Excel skills were utilized for the dashboard and analysis:
+* **Charts**: For visualizing the data.
+* **Formulas and Functions**: For Sorting, ANalyzing, Filtering the Data.
+* **Data Validation**: For restricting options in drop-down user interactive elements.
 
 ## Dashboard Build
 
@@ -56,7 +56,7 @@ The following Excel skills were utilized for analysis:
   )
 )
 ```
-* Filtering Multi-Item: CHecks job title, country, schedule type, and excludes any blank salary values.
+* Filtering Multi-Item: Checks job title, country, schedule type, and excludes any blank salary values.
 * Array Formula: Utilizes Median() function with nested IF() statement to analyze an array.
 * Insights: Provides the salary information for specific chosen job titles, countries, and schedule types.
 * Formula: This formula populates the table below, returning the median salary based on job title, country, and type specified.
@@ -90,7 +90,7 @@ Dashboard Implementation:
 ### Data Validation
 
 **Filtered List**
-* Enhanced Data Validation: Implemented the fltered list as a data validation rule undr the Job Title, COuntry, and Type option in the Data tab ensures:
+* Enhanced Data Validation: Implemented the filtered list as a data validation rule under the Job Title, Country, and Type options in the Data tab ensures:
     * User input is restricted to the predefined, and validated schedule types.
     * Incorrect or inconsistent entries are prevented.
     * Overall usability of the dashboard is enhanced.
