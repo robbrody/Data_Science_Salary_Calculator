@@ -79,7 +79,8 @@ Dashboard Implementation:
 
 Background Table:
 
-![Job Schedule Type Table]()
+![Job Schedule Type Table](https://github.com/robbrody/Data_Science_Salary_Calculator/blob/main/job_schedule_type_table.png)
+
 
 Dashboard Implementation:
 
