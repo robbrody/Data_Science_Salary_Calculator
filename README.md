@@ -3,7 +3,7 @@
 ![Data Science Salary Calculator](https://github.com/robbrody/Data_Science_Salary_Calculator/blob/main/DS_Salary_Calculator.gif)*Dashboard in Excel showing Data Science Job Salary Calculator*
 
 ## Introduction
-I developed an interactive Excel dashboard using Luke Barousse's Job Salary dataset, which includes over 32,000 job postings for Data Science roles worldwide, with a primary emphasis on the United States in 2023. This dashboard presents a comprehensive analysis by calculating the median salary for positions categorized by job title, country, and job schedule type. Users can interact with dropdown filters to customize the data view by job title, country, and schedule. The dashboard features three main visualizations: median salary by job title, job count by country, and median salary by job schedule type. Additionally, KPI cards display key metrics, including the median salary, top job listing platform, and job count based on selected filters. This tool offers an efficient, user-friendly way to explore and analyze job posting data effectively
+I developed an interactive Excel dashboard using Luke Barousse's Job Salary dataset, which includes over 32,000 job postings for Data Science roles worldwide, with a primary emphasis on the United States in 2023. This dashboard presents a comprehensive analysis by calculating the median salary for positions categorized by job title, country, and job schedule type. Users can interact with dropdown filters to customize the data view by job title, country, and schedule. The dashboard features three main visualizations: median salary by job title, median salary by country, and median salary by job schedule type. Additionally, KPI cards display key metrics, including the median salary, top job listing platform, and job count based on selected filters. This tool offers an efficient, user-friendly way to explore and analyze job posting data effectively
 
 ### Dashboard File
 
@@ -21,4 +21,12 @@ The following Excel skills were utilized for analysis:
 ### Charts
 
 Data Science Job Salaries Bar Chart
-![Job Title Salaries Bar Chart]()
+![Job Title Salaries Bar Chart](https://github.com/robbrody/Data_Science_Salary_Calculator/blob/main/Job_title_graph_and_dropdown.png)
+
+* Utitlized bar chart (with formatted salary values) na doptimized layour for clarity
+* Horizontal bar chart for visual comparison of median salaries.
+* Sorted job titles by descending slaary for improved readability.
+* This chart enables quick identification of salary trends, noting that Senior roles and Engineers are higher-paying than Analyst roles.
+
+Median Salary by Country Map Chart
+![Map Chart of Median Salaries]()
